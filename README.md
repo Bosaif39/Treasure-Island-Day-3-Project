@@ -2,11 +2,12 @@
 
 **Overview:**
 
-This is the day 3 project of the course 100 Days of Code: The Complete Python Pro Bootcamp.
+This is the Day 3 project from the 100 Days of Code: The Complete Python Pro Bootcamp. It's a simple Choose Your Own Adventure game where players make decisions to find a treasure. Correct choices lead to the treasure, while incorrect ones result in "Game Over."
 
 **How It Works:**
 
-This is a very simple Choose Your Own Adventure game, which gives the user a number of choices to reach the treasure. If the user chooses correctly, they will reach the treasure, otherwise the result will be "Game Over."
+In this text-based adventure game, players are presented with a sequence of choices. Each choice leads to different outcomes, with the goal of reaching the treasure. Choosing correctly will lead to a treasure, while incorrect choices result in a "Game Over."
+
 
 **Example**
 
