@@ -9,7 +9,7 @@ This is the Day 3 project from the 100 Days of Code: The Complete Python Pro Boo
 In this text-based adventure game, players are presented with a sequence of choices. Each choice leads to different outcomes, with the goal of reaching the treasure. Choosing correctly will lead to a treasure, while incorrect choices result in a "Game Over."
 
 
-## **Example**
+## **Example:**
 
 ![alt text](https://github.com/Bosaif39/example-pics/blob/main/D_3.png?raw=true)
 
