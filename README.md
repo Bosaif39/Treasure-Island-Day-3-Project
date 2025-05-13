@@ -15,4 +15,4 @@ In this text-based adventure game, players are presented with a sequence of choi
 
 ## **Requirements:**
 
-Python 3.x
+* Python 3.x
