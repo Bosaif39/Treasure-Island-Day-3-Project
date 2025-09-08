@@ -24,9 +24,8 @@ elif(choice=="left"):
             print("Game Over")
             
     else:
-        print("Game Over, wrong input")
+        print("Game Over")
     
 
 else:
-    print("Game Over, wrong input")
-
+    print("Game Over")
