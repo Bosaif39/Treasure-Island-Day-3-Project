@@ -1,23 +1,23 @@
 print("Text Adventure game dude!!")
 
-ch=input("Find the treasurer. You can go left or right.\n")
-ch=ch.lower()
+choice=input("Find the treasurer. You can go left or right.\n")
+choice=choice.lower()
 
-if(ch=="right"):
+if(choice=="right"):
     print("Game Over")
 
-elif(ch=="left"):
-    ch=input("It's a boat!! Do you want to swim or wait for the next one?\n")
-    ch=ch.lower()
+elif(choice=="left"):
+    choice=input("It's a boat!! Do you want to swim or wait for the next one?\n")
+    choice=choice.lower()
     
-    if(ch=="wait"):
+    if(choice=="wait"):
         print("Game Over")
     
-    elif(ch=="swim"):
-        ch=input("On the boat you find three boxes: red, blue, yellow and which one do you pick?\n")
+    elif(choice=="swim"):
+        choice=input("On the boat you find three boxes: red, blue, yellow and whichoice one do you pick?\n")
 
-        ch=ch.lower()
-        if(ch=="yellow"):
+        choice=choice.lower()
+        if(choice=="yellow"):
             print("You found the treasurer !!")
 
         else:
@@ -29,3 +29,4 @@ elif(ch=="left"):
 
 else:
     print("Game Over, wrong input")
+
